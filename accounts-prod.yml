@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Production  "
+  message: "Production Environment"
   contactDetails:
     name: "Rahul Gupta"
     email: "{cipher}ef78273703e4284feef9902905eeeee7ec50d39e397b88a295c42f176895a12a3d3cea41636f59d9a2e34cd05e9e3cb7"
